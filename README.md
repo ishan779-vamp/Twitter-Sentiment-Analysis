@@ -55,7 +55,7 @@ Welcome to the **Twitter Sentiment Analysis** project! This project leverages da
 ## Installation and Setup
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/tiwarygaurav/twitter-sentiment-analysis.git
+   git clone https://github.com/ishan779-vamp/twitter-sentiment-analysis.git
    cd twitter-sentiment-analysis
 
 
